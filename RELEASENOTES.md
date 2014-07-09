@@ -18,4 +18,4 @@
   -->
 # strapkit-lib Release Notes
 
-Initial release v0.1.0 -- this tool is a WIP, forked from Cordova at the moment to get things going quickly.
+Initial release v0.1.1 -- this tool is a WIP, forked from Cordova at the moment to get things going quickly.

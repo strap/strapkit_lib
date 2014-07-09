@@ -4,7 +4,7 @@
   },
   "name": "strapkit-lib",
   "description": "StrapKit tools core lib and API",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/strap/strapkit_lib"
@@ -45,6 +45,6 @@
     "test": "jasmine-node --color spec-strapkit"
   },
   "readmeFilename": "README.md",
-  "_id": "strapkit-lib@0.1.0"
+  "_id": "strapkit-lib@0.1.1"
  }
 
