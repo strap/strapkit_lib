@@ -46,6 +46,14 @@ function create(dir, id, name, cfg) {
         ));
     }
 
+    // if invoked with 1 argument, consider it the project name
+    // and use it to recreate other args
+    if(!id && !name){
+        name = dir;
+        dir = './'+name;
+        id = 'com.'+name;
+    }
+
     // Massage parameters
     if (typeof cfg == 'string') {
         cfg = JSON.parse(cfg);
