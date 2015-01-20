@@ -18,8 +18,7 @@
 module.exports = {
     'pebble' : {
         parser : './metadata/pebble_parser',
-        url    : 'https://github.com/strap/strapkit_pebble/tarball/newCreate/',
-        // url    : 'https://github.com/strap/strapkit_pebble/tarball/master/',
+        url    : 'https://github.com/strap/strapkit_pebble/tarball/master/',
         version: '0.1.0'
     },
     'samsung-gear' : {
