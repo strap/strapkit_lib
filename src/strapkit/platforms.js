@@ -1,7 +1,7 @@
  /*
   Copyright 2014 EnSens, LLC D/B/A Strap
   Portions derived from original source created by Apache Software Foundation.
- 
+
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
@@ -21,9 +21,9 @@ module.exports = {
         url    : 'https://github.com/strap/strapkit_pebble/tarball/master/',
         version: '0.1.0'
     },
-    'samsung-gear' : {
-        parser : './metadata/samsung_gear_parser',
-        url    : '',
+    'apple-watch' : {
+        parser : './metadata/apple_watch_parser',
+        url    : 'https://github.com/strap/strapkit_applewatch/tarball/master/',
         version: '0.1.0'
     },
     'android-wear' : {
