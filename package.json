@@ -34,7 +34,7 @@
     "tar": "4.4.2",
     "request": "2.22.0",
     "npmconf": "0.1.x",
-    "mime": "~1.2.11",
+    "mime": "1.4.1",
     "osenv": "0.0.x"
   },
   "devDependencies": {
